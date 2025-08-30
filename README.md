@@ -1,7 +1,4 @@
-Perfect 👍 since you want it **detailed and creative**, here’s a polished **README.md** for your GitHub repo.
-It includes **badges, images placeholders, structured sections, and creative flow** so recruiters or collaborators instantly get impressed 🚀
 
-```markdown
 # 👀 Attention Guard System  
 
 > **Your Personal Focus Companion** – A real-time computer vision system that ensures you stay attentive during study, work, or driving.  
